@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Caroline Owens
+- I am an ecosystem ecologist and statistician
+- I'm currently working on forecast evaluation for harmful algal blooms
+- I am interested in using open data science to scale ecological understanding
+- You can reach me by email: carolinehowens@gmail.com
 
 <!--
 **carolineowens/carolineowens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
